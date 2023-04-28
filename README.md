@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @corysabol
-- 👀 I’m interested in GameDev, Hacking, and Fuzzing
+- 👀 I’m interested in GameDev, Hacking, and AI/ML
 
 <!---
 corysabol/corysabol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
